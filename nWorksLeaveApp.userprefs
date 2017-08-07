@@ -1,0 +1,10 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{6EBE9FC9-A5C6-4ABD-86B3-6E6A141DA09A}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.nWorksLeaveApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.nWorksLeaveApp.Droid PreferredExecutionTarget="Android.92012061ecbb136f" />
+</Properties>

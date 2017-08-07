@@ -1,0 +1,28 @@
+<resources><style name="Theme.Splash" parent="android:Theme"><item name="android:windowBackground">@drawable/splash</item><item name="android:windowNoTitle">true</item></style><!--  <style name="MyTheme" parent="@android:style/Theme.Holo">
+    <item name="android:actionBarTabStyle">@style/MyActionBarTabBack</item>
+	<item name="android:actionBarTabTextStyle">@style/ActionBarTabTextStyle.Tabtheme</item>
+    <item name="actionBarTabTextStyle">@style/ActionBarTabTextStyle.Tabtheme</item>  
+   </style>
+
+  <style name="MyActionBarTabBack"  parent="@android:style/Widget.Holo.ActionBar.TabText">
+    <item name="android:background">#000022</item>
+  </style>
+  <style name="ActionBarTabTextStyle.Tabtheme" parent="@android:style/Widget.Holo.ActionBar.TabText">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">#FF0000</item>
+    <item name="android:gravity">center_horizontal</item>
+</style>--><!--<style name="MyCustomTheme" parent="@android:style/Theme.Holo">
+    <item name="android:tabWidgetStyle">@style/CustomTabWidget</item>
+    <item name="colorPrimary">#FF0000</item>
+</style>
+
+<style name="CustomTabWidget" parent="@android:style/Widget.TabWidget">
+    <item name="android:textAppearance">@style/CustomTabWidgetText</item>
+</style>
+
+<style name="CustomTabWidgetText" parent="@android:style/TextAppearance.Widget.TabWidget">
+    <item name="android:textSize">12sp</item>
+    <item name="android:textStyle">bold</item>
+</style>--><!--<style name="ActionBarTabStyle1" parent="@android:style/Widget.Holo.ActionBar.TabView">
+
+    <item name="android:background">@drawable/tab_indicator</item>  --><!--</style>--></resources>
