@@ -1,43 +1,44 @@
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/nWorksLeaveApp.Droid.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.Xml.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.Core.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Mono.Android.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Java.Interop.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Connectivity.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.CurrentActivity.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Settings.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Permissions.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Core.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/zxing.portable.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/ZXingNetMobile.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/FormsViewGroup.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Forms.Android.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/ZXing.Net.Mobile.Forms.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Plugin.Geolocator.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/nWorksLeaveApp.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/mscorlib.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.Net.Http.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Newtonsoft.Json.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/System.Xml.Linq.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Microsoft.CSharp.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/Mono.CSharp.dll
-/Users/sudeepagarwal/Desktop/Dipak/DipakWorksSpace/Workspace/Back up/leaveApp/01:11:2016/nWorksLeaveApp/Droid/obj/Debug/android/assets/GeoCoordinatePortable.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\nWorksLeaveApp.Droid.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Connectivity.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.CurrentActivity.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Geolocator.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Permissions.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Plugin.Settings.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\ZXing.Net.Mobile.Core.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\zxing.portable.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\ZXingNetMobile.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.Core.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.Xml.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\mscorlib.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\nWorksLeaveApp.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Mono.Security.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\GeoCoordinatePortable.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Microsoft.CSharp.dll
+C:\Users\dipak\Documents\GitHub\MyXamarinProject\Droid\obj\Debug\android\assets\Mono.CSharp.dll
